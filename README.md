@@ -5,7 +5,6 @@ I have been writing blog posts about different topics since 2016. I'm focusing o
 
 - 🔭 I’m currently working on programming and data science
 - 🌱 I’m currently learning Machine & Deep Learning 
-- 🤔 I’m looking for help with anvanced level information of technology
 - 💬 Ask me about anything
 - 📫 How to reach me :
 
