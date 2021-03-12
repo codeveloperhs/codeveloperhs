@@ -1,6 +1,6 @@
 ### Hi! 👋 Welcome to my code library!👩🏻‍💻 
 
-I'm 22. I'm still a student of Math&Comp. Science Department at university. I interested in AI-ML-DL and statistic information.
+I'm 22. I'm still a student of Math&Comp. Science Department at university. I interested in AI-ML-DL and statistics.
 I have been writing blog posts about different topics since 2016. I'm focusing on Python,R,Matlab programming languages. I know the importance of data and adopt it.
 
 - 🔭 I’m currently working on programming and data science
